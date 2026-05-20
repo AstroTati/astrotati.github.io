@@ -19,4 +19,5 @@ And you know what? I wouldn't change a single thing in the path that brought to 
 
 
 \
-:stars:
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cbacf96e-f01f-43bc-b703-32042d051d44" />
+
